@@ -1,0 +1,12 @@
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.xml
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.vbprojAssemblyReference.cache
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Resources.resources
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.vbproj.GenerateResource.cache
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.xml
+C:\Users\Patrick.DSIPBS\source\repos\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
